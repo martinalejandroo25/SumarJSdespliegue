@@ -1,0 +1,23 @@
+{
+    "name": "sumarinicial",
+    "version": "1.0.0",
+    "description": "Programa Basico de suma para probar github Actions",
+    "homepage": "https://github.com/martinalejandroo25/SumarJSdespliegue#readme",
+    "bugs": {
+        "url": "https://github.com/martinalejandroo25/SumarJSdespliegue/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/martinalejandroo25/SumarJSdespliegue.git"
+    },
+    "license": "MIT",
+    "author": "Martin",
+    "type": "commonjs",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "node test/index.text.js"
+    }
+}
